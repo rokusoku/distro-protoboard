@@ -17,6 +17,7 @@ Get the boards at <https://hexapod.au>
 | PXA1 | primal X        | 1       | [template](./template/hexapod-PXA1-primal-x-template.pdf) |
 | PYA1 | primal Y        | 1       | [template](./template/hexapod-PYA1-primal-y-template.pdf) |
 | PGA1 | primal G        | 1       | [template](./template/hexapod-PGA1-primal-g-template.pdf) |
+| PSA2 | primal SA       | 2       | [template](./template/hexapod-PSA2-primal-sa-template.pdf) |
 | BKA1 | bones K         | 1       | [template](./template/hexapod-BKA1-bones-k-template.pdf) |
 | BXA1 | bones X         | 1       | [template](./template/hexapod-BXA1-bones-x-template.pdf) |
 | KQA1 | crown qfp32 0p8 | 1       | [template](./template/hexapod-KQA1-crown-qfp32-0p8-template.pdf) |
