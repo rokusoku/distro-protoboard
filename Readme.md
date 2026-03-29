@@ -11,6 +11,7 @@ Get the boards at <https://hexapod.au>
 | RAA5 | ritual A        | 5       | [template](./template/hexapod-RAA5-ritual-a-template.pdf) |
 | RAW5 | ritual W        | 5       | [template](./template/hexapod-RAW5-ritual-w-template.pdf) |
 | FAA1 | festival A      | 1       | [template](./template/hexapod-FAA1-festival-a-template.pdf) |
+| FAW2 | festival W      | 2       | [template](./template/hexapod-FAW2-festival-w-template.pdf) |
 | CAA2 | carnival A      | 2       | [template](./template/hexapod-CAA2-carnival-a-template.pdf) |
 | CAW2 | carnival W      | 2       | [template](./template/hexapod-CAW2-carnival-w-template.pdf) |
 | PAA1 | primal A        | 1       | [template](./template/hexapod-PAA1-primal-a-template.pdf) |
